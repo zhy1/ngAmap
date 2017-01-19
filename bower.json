@@ -1,0 +1,12 @@
+{
+  "name": "ng-amap",
+  "main":"ng-amap.js",
+  "version": "1.0.0",
+  "url":"https://github.com/zhy1/ngAmap",
+  "description": "angular amap",
+  "author": "zy",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.3.0",
+  }
+}
